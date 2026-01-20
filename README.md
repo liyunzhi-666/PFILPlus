@@ -57,7 +57,7 @@ My Allocator is very different from the current model and offers a new DataCap r
 4.Communication efficiency, customer and community participation will be greatly improved.
 
 ## Contact info
-Slack ID: Patrick-li
+Slack ID: Patrick
 emails:patricckk886@gmail.com
 
 ## Detailed Allocator policies, procedures, and requirements.
