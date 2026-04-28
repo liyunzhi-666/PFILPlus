@@ -3,7 +3,7 @@
 Template for repositories for v6 allocators. Please ensure you fill out the Readme file with correct information, within 2 weeks of being accepted as an allocator. Remove the this top header to start with your allocator name
 
 # Allocator Bookeeping repository for <Allocator Name>
-
+PFILPlus
 
 ## Allocator JSON Link
 _put here a link to your allocator json from https://github.com/filecoin-project/Allocator-Registry/tree/main/Allocators_
